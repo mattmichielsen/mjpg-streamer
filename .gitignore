@@ -1,0 +1,4 @@
+*.so
+*.lo
+*.o
+mjpg_streamer
